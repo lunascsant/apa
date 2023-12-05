@@ -9,12 +9,15 @@ considerar os percentuais de 5, 25 e 45 % em relação ao tamanho da lista.
 
 Para cada cenário de simulação executar o algoritmo QuickSort considerando a
 possibilidade de 6 tipos de escolhas de pivô.
-1 – Pivô fixo na primeira posição da lista
-2 – Pivô fixo na posição central da lista: [1+n] / 2
-3 – Pivô média considerando a média do primeiro , central e último valores da lista.
-4 – Pivô randômico
-5 – Pivô mediana
-6 – Pivô computado pelo procedimento Acha Pivô
+
+<ol>
+  <li>Pivô fixo na primeira posição da lista</li>
+  <li>Pivô fixo na posição central da lista: [1+n] / 2</li>
+  <li>Pivô média considerando a média do primeiro , central e último valores da lista</li>
+  <li>Pivô randômico</li>
+  <li>Pivô mediana</li>
+  <li>Pivô computado pelo procedimento Acha Pivô</li>
+</ol>
 
 Construir para cada cenário e para cada alternativa de escolha do pivô um gráfico
 relacionando o tempo de execução do algoritmo ao tamanho da lista. Portanto
